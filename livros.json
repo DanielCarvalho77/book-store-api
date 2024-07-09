@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "nome": "To Kill a Mockingbird"
+    },
+    {
+      "id": "2",
+      "nome": "1984"
+    },
+    {
+      "id": "3",
+      "nome": "The Great Gatsby"
+    },
+    {
+      "id": "4",
+      "nome": "The Catcher in the Rye"
+    },
+    {
+      "id": "5",
+      "nome": "The Hobbit"
+    },
+    {
+      "id": "6",
+      "nome": "Pride and Prejudice"
+    },
+    {
+      "id": "7",
+      "nome": "The Lord of the Rings"
+    },
+    {
+      "id": "8",
+      "nome": "Harry Potter and the Sorcerer's Stone"
+    },
+    {
+      "id": "9",
+      "nome": "Animal Farm"
+    },
+    {
+      "id": "10",
+      "nome": "The Diary of a Young Girl"
+    },
+    {
+      "id": "11",
+      "nome": "Moby-Dick"
+    },
+    {
+      "id": "12",
+      "nome": "War and Peace"
+    },
+    {
+      "id": "13",
+      "nome": "Jane Eyre"
+    },
+    {
+      "id": "14",
+      "nome": "Brave New World"
+    },
+    {
+      "id": "15",
+      "nome": "The Catch-22"
+    },
+    {
+      "id": "16",
+      "nome": "The Adventures of Huckleberry Finn"
+    },
+    {
+      "id": "17",
+      "nome": "The Chronicles of Narnia"
+    },
+    {
+      "id": "18",
+      "nome": "The Kite Runner"
+    },
+    {
+      "id": "19",
+      "nome": "The Book Thief"
+    },
+    {
+      "id": "20",
+      "nome": "Little Women"
+    }
+  ]
+  
