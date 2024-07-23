@@ -35,9 +35,9 @@ function deletaLivro(id) {
 }
 
 module.exports = {
-    getTodosLivros, 
-    getLivroPorId, 
-    insertNewBook, 
+    getTodosLivros,
+    getLivroPorId,
+    insertNewBook,
     modificaLivro,
     deletaLivro
 }
