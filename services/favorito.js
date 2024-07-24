@@ -12,6 +12,7 @@ function deletaFavoritoPorId (id){
 }
 
 function insertFavoritos (id) {
+    console.log('service favoritoooooooooooooooooo');
     const livros = JSON.parse(fs.readFileSync("livros.json"));
     const favoritos = JSON.parse(fs.readFileSync("favoritos.json"));
     
